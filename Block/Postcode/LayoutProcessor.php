@@ -6,7 +6,7 @@
  * Time: 11:20
  */
 
-namespace ModuleVendor_WezzPostcode\WezzPostcode\Block\Postcode;
+namespace ModuleVendor\WezzPostcode\Block\Postcode;
 
 
 class LayoutProcessor extends \Wezz\Postcode\Block\Checkout\LayoutProcessor
