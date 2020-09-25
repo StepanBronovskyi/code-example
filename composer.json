@@ -1,0 +1,24 @@
+{
+    "name": "******/wezz-postcodem2",
+    "description": "Postcode fields customization",
+    "type": "magento2-module",
+    "authors": [{
+        "name": "Stepan Bronovskyi",
+        "email": "**********",
+        "role": "developer"
+    }],
+    "require": {
+        "php": "^7.1",
+        "wezz/postcodem2": "^1.0"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "ModuleVendor\\WezzPostcode\\": ""
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
